@@ -1,3 +1,5 @@
+[![Run Playwright auto-checks](https://github.com/bugITwhisperer/hacktoberfest-CSCentral/actions/workflows/ci_tests_autochecks.yml/badge.svg)](https://github.com/bugITwhisperer/hacktoberfest-CSCentral/actions/workflows/ci_tests_autochecks.yml)
+
 # CS Central
 
 </h1>
